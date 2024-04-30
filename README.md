@@ -15,7 +15,6 @@ Bem-vindo ao meu cantinho virtual no universo do código! Sou Pedro , um entusia
 Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
 
 * **Desligamento-CADM:** Código geral para Mudar qualquer valor em massa de um Arquivo SEFIP , automação de planilhas trabalhando com uma grandes bases de dados.
-* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedro260103&repo=github-readme-stats)](https://github.com/Pedro260103/Desligamento-CADM)
 
 * **E-SOCIAL:** Este código representa uma solução eficiente para extrair e organizar uma grande quantidade de dados relacionados aos servidores públicos, incluindo nomes, salários, décimo terceiro e contribuições. Ao automatizar esse processo, ele elimina a necessidade de meses de trabalho manual, tornando-o rápido e preciso. Com essa abordagem, é possível obter insights valiosos e tomar decisões informadas com base nos dados coletados. Essa eficiência é crucial para lidar com grandes volumes de informações e garantir a transparência e eficácia na gestão de recursos públicos.
 
@@ -52,8 +51,8 @@ Estou sempre aberto(a) para colaborações, novas oportunidades e simplesmente b
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
